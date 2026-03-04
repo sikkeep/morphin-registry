@@ -1,1 +1,41 @@
+# OS
+
 .DS_Store
+
+# Node
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+
+.env
+.env.local
+.env.*.local
+
+# Build output
+
+dist/
+build/
+
+# Logs
+
+logs
+*.log
+
+# Coverage
+
+coverage/
+
+# Editor / IDE
+
+.vscode/
+.idea/
+
+# Temporary files
+
+.tmp/
+.cache/
