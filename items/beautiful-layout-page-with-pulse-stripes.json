@@ -1,0 +1,13 @@
+{
+  "name": "beautiful-layout-page-with-pulse-stripes",
+  "type": "screen",
+  "files": [
+    { "path": "components/hero.tsx" },
+    { "path": "components/header.tsx" },
+    { "path": "components/animated-lines.tsx" },
+    { "path": "components/insights-section.tsx" },
+    { "path": "components/brand-marquee.tsx" },
+    { "path": "components/ui/logo.tsx" }
+  ],
+  "dependencies": ["framer-motion", "@number-flow/react", "lucide-react"]
+}

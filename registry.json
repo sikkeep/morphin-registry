@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "name": "beautiful-layout-page-with-pulse-stripes",
+      "type": "screen",
+      "path": "items/beautiful-layout-page-with-pulse-stripes.json",
+      "description": "Full page bundle with pulse stripes visuals"
+    }
+  ]
+}
