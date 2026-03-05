@@ -5,6 +5,12 @@
       "type": "screen",
       "path": "items/beautiful-layout-page-with-pulse-stripes.json",
       "description": "Full page bundle with pulse stripes visuals"
+    },
+    {
+      "name": "chaotic-dots-loader-for-data-tables",
+      "type": "screen",
+      "path": "items/chaotic-dots-loader-for-data-tables.json",
+      "description": "Chaotic pixels loader for user data tables with infinite loading"
     }
   ]
 }

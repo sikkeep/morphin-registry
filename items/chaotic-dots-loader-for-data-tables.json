@@ -1,0 +1,16 @@
+{
+  "name": "chaotic-dots-loader-for-data-tables",
+  "type": "screen",
+  "files": [
+    { "path": "components/chaotic-dots-loader-for-data-tables/chaotic-pixels-loader.tsx", "target": "components/chaotic-pixels-loader.tsx" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/user-rows-skeleton.tsx", "target": "components/user-rows-skeleton.tsx" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/user-table-row.tsx", "target": "components/user-table-row.tsx" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/users-screen.tsx", "target": "components/users-screen.tsx" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/hooks/use-pixel-columns.ts", "target": "components/hooks/use-pixel-columns.ts" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/hooks/use-users-infinite-loading.ts", "target": "components/hooks/use-users-infinite-loading.ts" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/lib/types.ts", "target": "components/lib/types.ts" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/lib/utils.ts", "target": "components/lib/utils.ts" },
+    { "path": "components/chaotic-dots-loader-for-data-tables/ui/table.tsx", "target": "components/ui/table.tsx" }
+  ],
+  "dependencies": ["framer-motion", "clsx", "tailwind-merge"]
+}

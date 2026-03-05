@@ -2,12 +2,12 @@
   "name": "beautiful-layout-page-with-pulse-stripes",
   "type": "screen",
   "files": [
-    { "path": "components/hero.tsx" },
-    { "path": "components/header.tsx" },
-    { "path": "components/animated-lines.tsx" },
-    { "path": "components/insights-section.tsx" },
-    { "path": "components/brand-marquee.tsx" },
-    { "path": "components/ui/logo.tsx" }
+    { "path": "components/beautiful-layout-page-with-pulse-stripes/hero.tsx", "target": "components/hero.tsx" },
+    { "path": "components/beautiful-layout-page-with-pulse-stripes/header.tsx", "target": "components/header.tsx" },
+    { "path": "components/beautiful-layout-page-with-pulse-stripes/animated-lines.tsx", "target": "components/animated-lines.tsx" },
+    { "path": "components/beautiful-layout-page-with-pulse-stripes/insights-section.tsx", "target": "components/insights-section.tsx" },
+    { "path": "components/beautiful-layout-page-with-pulse-stripes/brand-marquee.tsx", "target": "components/brand-marquee.tsx" },
+    { "path": "components/beautiful-layout-page-with-pulse-stripes/ui/logo.tsx", "target": "components/ui/logo.tsx" }
   ],
   "dependencies": ["framer-motion", "@number-flow/react", "lucide-react"]
 }
