@@ -11,6 +11,12 @@
       "type": "screen",
       "path": "items/chaotic-dots-loader-for-data-tables.json",
       "description": "Chaotic pixels loader for user data tables with infinite loading"
+    },
+    {
+      "name": "animated-svg-branch-connector",
+      "type": "screen",
+      "path": "items/animated-svg-branch-connector.json",
+      "description": "Animated SVG branch connector for visualizing hierarchical data"
     }
   ]
 }

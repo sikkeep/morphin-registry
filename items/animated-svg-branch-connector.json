@@ -1,0 +1,14 @@
+{
+  "name": "animated-svg-branch-connector",
+  "type": "component",
+  "files": [
+    { "path": "components/animated-svg-branch-connector/card.tsx", "target": "components/card.tsx" },
+    { "path": "components/animated-svg-branch-connector/index-demo.tsx", "target": "index-demo.tsx" },
+    { "path": "components/animated-svg-branch-connector/svg-branches.tsx", "target": "components/svg-branches.tsx" },
+    { "path": "components/animated-svg-branch-connector/lib/utils.ts", "target": "lib/utils.ts" },
+    { "path": "components/animated-svg-branch-connector/providers/resize.tsx", "target": "providers/resize.tsx" },
+    { "path": "components/animated-svg-branch-connector/ui/cross.tsx", "target": "ui/cross.tsx" },
+    { "path": "components/animated-svg-branch-connector/ui/lines.tsx", "target": "ui/lines.tsx" }
+  ],
+  "dependencies": ["framer-motion", "next-useragent", "usehooks-ts", "tailwind-merge", "clsx"]
+}
