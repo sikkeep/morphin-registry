@@ -2,21 +2,27 @@
   "items": [
     {
       "name": "beautiful-layout-page-with-pulse-stripes",
-      "type": "screen",
+      "type": "component",
       "path": "items/beautiful-layout-page-with-pulse-stripes.json",
       "description": "Full page bundle with pulse stripes visuals"
     },
     {
       "name": "chaotic-dots-loader-for-data-tables",
-      "type": "screen",
+      "type": "component",
       "path": "items/chaotic-dots-loader-for-data-tables.json",
       "description": "Chaotic pixels loader for user data tables with infinite loading"
     },
     {
       "name": "animated-svg-branch-connector",
-      "type": "screen",
+      "type": "component",
       "path": "items/animated-svg-branch-connector.json",
       "description": "Animated SVG branch connector for visualizing hierarchical data"
+    },
+    {
+      "name": "animated-feature-cards-for-react-tailwind-framer-motion",
+      "type": "component",
+      "path": "items/animated-feature-cards-for-react-tailwind-framer-motion.json",
+      "description": "Animated feature cards built with React, Tailwind, and Framer Motion"
     }
   ]
 }

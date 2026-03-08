@@ -1,0 +1,20 @@
+{
+  "name": "animated-feature-cards-for-react-tailwind-framer-motion",
+  "type": "component",
+  "files": [
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/card.tsx", "target": "components/card.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/grid-animated-cards.tsx", "target": "components/grid-animated-cards.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/card-animation-01.tsx", "target": "components/card-animation-01.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/card-animation-02.tsx", "target": "components/card-animation-02.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/card-animation-03.tsx", "target": "components/card-animation-03.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/card-animation-04.tsx", "target": "components/card-animation-04.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/lib/utils.ts", "target": "lib/utils.ts" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/ui/icons/index.tsx", "target": "components/ui/icons/index.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/ui/icons/ai-send-message.tsx", "target": "components/ui/icons/ai-send-message.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/ui/icons/tick-circle.tsx", "target": "components/ui/icons/tick-circle.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/ui/icons/user-square.tsx", "target": "components/ui/icons/user-square.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/ui/icons/message-question.tsx", "target": "components/ui/icons/message-question.tsx" },
+    { "path": "components/animated-feature-cards-for-react-tailwind-framer-motion/ui/icons/receipt-item.tsx", "target": "components/ui/icons/receipt-item.tsx" }
+  ],
+  "dependencies": ["framer-motion", "clsx", "tailwind-merge"]
+}
