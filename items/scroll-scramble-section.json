@@ -1,0 +1,28 @@
+{
+  "name": "scroll-scramble-section",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/scroll-scramble-section/demo.tsx",
+      "target": "components/demo.tsx"
+    },
+    {
+      "path": "components/scroll-scramble-section/index.css",
+      "target": "components/index.css"
+    },
+    {
+      "path": "components/scroll-scramble-section/hooks/index.ts",
+      "target": "hooks/index.ts"
+    },
+    {
+      "path": "components/scroll-scramble-section/hooks/use-scroll-text-motion.ts",
+      "target": "hooks/use-scroll-text-motion.ts"
+    },
+    {
+      "path": "components/scroll-scramble-section/ui/scroll-text-motion.tsx",
+      "target": "components/ui/scroll-text-motion.tsx"
+    }
+  ],
+  "dependencies": ["gsap"]
+}

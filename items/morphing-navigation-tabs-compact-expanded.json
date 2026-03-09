@@ -1,0 +1,22 @@
+{
+  "name": "morphing-navigation-tabs-compact-expanded",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/morphing-navigation-tabs-compact-expanded/demo.tsx",
+      "target": "components/demo.tsx"
+    },
+    {
+      "path": "components/morphing-navigation-tabs-compact-expanded/expandable-tabs.tsx",
+      "target": "components/ui/expandable-tabs.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "usehooks-ts",
+    "lucide-react",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "precision-slider-with-animated-value",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/precision-slider-with-animated-value/slider-demo.tsx",
+      "target": "components/slider-demo.tsx"
+    },
+    {
+      "path": "components/precision-slider-with-animated-value/ui/slider.tsx",
+      "target": "components/ui/slider.tsx"
+    }
+  ],
+  "dependencies": [
+    "@number-flow/react",
+    "@radix-ui/react-slider",
+    "class-variance-authority",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

@@ -53,6 +53,30 @@
       "type": "component",
       "path": "items/swipe-card-stack-ui-with-framer-motion.json",
       "description": "Swipeable animated card stack with drag gestures and cycling content"
+    },
+    {
+      "name": "scroll-scramble-section",
+      "type": "component",
+      "path": "items/scroll-scramble-section.json",
+      "description": "Scroll-driven text scramble section with GSAP Flip and ScrollTrigger effects"
+    },
+    {
+      "name": "morphing-navigation-tabs-compact-expanded",
+      "type": "component",
+      "path": "items/morphing-navigation-tabs-compact-expanded.json",
+      "description": "Expandable navigation tabs that morph between compact and labeled states"
+    },
+    {
+      "name": "precision-slider-with-animated-value",
+      "type": "component",
+      "path": "items/precision-slider-with-animated-value.json",
+      "description": "Precision slider with animated numeric value display"
+    },
+    {
+      "name": "transaction-flow-in-one-button",
+      "type": "component",
+      "path": "items/transaction-flow-in-one-button.json",
+      "description": "Single transaction button with loading pixels and success state morph"
     }
   ]
 }
