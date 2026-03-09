@@ -1,0 +1,16 @@
+{
+  "name": "text-shimmer-wave",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/text-shimmer-wave/demo.tsx",
+      "target": "components/demo.tsx"
+    },
+    {
+      "path": "components/text-shimmer-wave/ui/text-shimmer-wave.tsx",
+      "target": "components/ui/text-shimmer-wave.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion", "clsx", "tailwind-merge"]
+}

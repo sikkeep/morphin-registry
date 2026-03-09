@@ -1,0 +1,24 @@
+{
+  "name": "swipe-card-stack-ui-with-framer-motion",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/swipe-card-stack-ui-with-framer-motion/ui/animate-card-animation-constants.ts",
+      "target": "components/ui/animate-card-animation-constants.ts"
+    },
+    {
+      "path": "components/swipe-card-stack-ui-with-framer-motion/ui/animate-card-animated-item.tsx",
+      "target": "components/ui/animate-card-animated-item.tsx"
+    },
+    {
+      "path": "components/swipe-card-stack-ui-with-framer-motion/ui/animate-card-animation.tsx",
+      "target": "components/ui/animate-card-animation.tsx"
+    },
+    {
+      "path": "components/swipe-card-stack-ui-with-framer-motion/ui/animate-card-item-content.tsx",
+      "target": "components/ui/animate-card-item-content.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion", "lucide-react"]
+}

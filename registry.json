@@ -41,6 +41,18 @@
       "type": "component",
       "path": "items/animated-like-button-with-burst-effect.json",
       "description": "Interactive like button with heart burst and count animation"
+    },
+    {
+      "name": "text-shimmer-wave",
+      "type": "component",
+      "path": "items/text-shimmer-wave.json",
+      "description": "Wave shimmer text animation with per-character motion effects"
+    },
+    {
+      "name": "swipe-card-stack-ui-with-framer-motion",
+      "type": "component",
+      "path": "items/swipe-card-stack-ui-with-framer-motion.json",
+      "description": "Swipeable animated card stack with drag gestures and cycling content"
     }
   ]
 }
