@@ -1,0 +1,31 @@
+{
+  "name": "animated-border-button",
+  "type": "component",
+  "files": [
+    {
+      "path": "components/animated-border-button/demo.tsx",
+      "target": "components/demo.tsx"
+    },
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-border-button/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "path": "components/animated-border-button/ui/icons/success.tsx",
+      "target": "components/ui/icons/success.tsx"
+    },
+    {
+      "path": "components/animated-border-button/ui/icons/trash.tsx",
+      "target": "components/ui/icons/trash.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "torph",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

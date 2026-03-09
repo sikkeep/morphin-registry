@@ -23,6 +23,24 @@
       "type": "component",
       "path": "items/animated-feature-cards-for-react-tailwind-framer-motion.json",
       "description": "Animated feature cards built with React, Tailwind, and Framer Motion"
+    },
+    {
+      "name": "animated-border-button",
+      "type": "component",
+      "path": "items/animated-border-button.json",
+      "description": "Configurable button with animated dashed border and success/error states"
+    },
+    {
+      "name": "infinite-grid-with-framer-motion",
+      "type": "component",
+      "path": "items/infinite-grid-with-framer-motion.json",
+      "description": "Infinite animated grid with pointer spotlight and density controls"
+    },
+    {
+      "name": "animated-like-button-with-burst-effect",
+      "type": "component",
+      "path": "items/animated-like-button-with-burst-effect.json",
+      "description": "Interactive like button with heart burst and count animation"
     }
   ]
 }

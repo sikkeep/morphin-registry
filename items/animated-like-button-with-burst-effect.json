@@ -1,0 +1,31 @@
+{
+  "name": "animated-like-button-with-burst-effect",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-like-button-with-burst-effect/ui/like-button.tsx",
+      "target": "components/ui/like-button.tsx"
+    },
+    {
+      "path": "components/animated-like-button-with-burst-effect/ui/like-button-animations.tsx",
+      "target": "components/ui/like-button-animations.tsx"
+    },
+    {
+      "path": "components/animated-like-button-with-burst-effect/ui/like-button-heart-icon.tsx",
+      "target": "components/ui/like-button-heart-icon.tsx"
+    },
+    {
+      "path": "components/animated-like-button-with-burst-effect/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "@number-flow/react",
+    "class-variance-authority",
+    "radix-ui",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

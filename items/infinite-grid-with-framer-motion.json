@@ -1,0 +1,12 @@
+{
+  "name": "infinite-grid-with-framer-motion",
+  "type": "component",
+  "files": [
+    {
+      "path": "components/infinite-grid-with-framer-motion/ui/infinite-grid-integration.tsx",
+      "target": "components/ui/infinite-grid-integration.tsx"
+    },
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" }
+  ],
+  "dependencies": ["framer-motion", "lucide-react", "clsx", "tailwind-merge"]
+}
