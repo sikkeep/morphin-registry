@@ -77,6 +77,12 @@
       "type": "component",
       "path": "items/transaction-flow-in-one-button.json",
       "description": "Single transaction button with loading pixels and success state morph"
+    },
+    {
+      "name": "usage-analytics-dashboard-card",
+      "type": "component",
+      "path": "items/usage-analytics-dashboard-card.json",
+      "description": "Usage analytics dashboard card with animated bars and top app breakdown"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "usage-analytics-dashboard-card",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/usage-analytics-dashboard-card/screen-time-card.tsx",
+      "target": "components/screen-time-card.tsx"
+    },
+    {
+      "path": "components/usage-analytics-dashboard-card/screen-time-card-demo.tsx",
+      "target": "components/screen-time-card-demo.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion", "lucide-react", "clsx", "tailwind-merge"]
+}
