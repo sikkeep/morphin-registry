@@ -125,6 +125,30 @@
       "type": "component",
       "path": "items/audio-chat-room.json",
       "description": "Expandable audio chat room UI with participant avatars and speaking indicators"
+    },
+    {
+      "name": "workflow-builder-card",
+      "type": "component",
+      "path": "items/workflow-builder-card.json",
+      "description": "Interactive workflow builder card with hover details and team/action metadata"
+    },
+    {
+      "name": "animated-registration-form",
+      "type": "component",
+      "path": "items/animated-registration-form.json",
+      "description": "Animated onboarding registration form with avatar upload and username submission"
+    },
+    {
+      "name": "activity-dropdown",
+      "type": "component",
+      "path": "items/activity-dropdown.json",
+      "description": "Expandable activity dropdown panel with animated list transitions"
+    },
+    {
+      "name": "animated-menu-text",
+      "type": "component",
+      "path": "items/animated-menu-text.json",
+      "description": "Animated menu text with per-character hover slide transitions"
     }
   ]
 }

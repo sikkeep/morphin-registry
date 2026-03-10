@@ -1,0 +1,35 @@
+{
+  "name": "workflow-builder-card",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/workflow-builder-card/workflow-builder-card.tsx",
+      "target": "components/workflow-builder-card.tsx"
+    },
+    {
+      "path": "components/workflow-builder-card/workflow-builder-card-demo.tsx",
+      "target": "components/workflow-builder-card-demo.tsx"
+    },
+    {
+      "path": "components/workflow-builder-card/ui/card.tsx",
+      "target": "components/ui/card.tsx"
+    },
+    {
+      "path": "components/workflow-builder-card/ui/avatar.tsx",
+      "target": "components/ui/avatar.tsx"
+    },
+    {
+      "path": "components/workflow-builder-card/ui/badge.tsx",
+      "target": "components/ui/badge.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "@radix-ui/react-avatar",
+    "class-variance-authority",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

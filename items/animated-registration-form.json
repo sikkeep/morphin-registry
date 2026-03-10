@@ -1,0 +1,36 @@
+{
+  "name": "animated-registration-form",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-registration-form/onboarding-form.tsx",
+      "target": "components/onboarding-form.tsx"
+    },
+    {
+      "path": "components/animated-registration-form/onboarding-form-demo.tsx",
+      "target": "components/onboarding-form-demo.tsx"
+    },
+    {
+      "path": "components/animated-registration-form/ui/avatar.tsx",
+      "target": "components/ui/avatar.tsx"
+    },
+    {
+      "path": "components/animated-registration-form/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "path": "components/animated-registration-form/ui/input.tsx",
+      "target": "components/ui/input.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "@radix-ui/react-avatar",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

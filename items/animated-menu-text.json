@@ -1,0 +1,16 @@
+{
+  "name": "animated-menu-text",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-menu-text/animated-menu.tsx",
+      "target": "components/animated-menu.tsx"
+    },
+    {
+      "path": "components/animated-menu-text/animated-menu-demo.tsx",
+      "target": "components/animated-menu-demo.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion", "clsx", "tailwind-merge"]
+}

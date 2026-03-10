@@ -1,0 +1,12 @@
+{
+  "name": "activity-dropdown",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/activity-dropdown/activity-dropdown.tsx",
+      "target": "components/activity-dropdown.tsx"
+    }
+  ],
+  "dependencies": ["lucide-react", "clsx", "tailwind-merge"]
+}
