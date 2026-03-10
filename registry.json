@@ -167,6 +167,12 @@
       "type": "component",
       "path": "items/a-component-displays-a-group-of-avatars.json",
       "description": "Animated overlapping avatar group with hover lift and label tooltips"
+    },
+    {
+      "name": "bento-grid-react-component-for-saas-ui",
+      "type": "component",
+      "path": "items/bento-grid-react-component-for-saas-ui.json",
+      "description": "SaaS bento grid with animated cards for notifications, emoji, and presence"
     }
   ]
 }

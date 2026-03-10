@@ -1,0 +1,48 @@
+{
+  "name": "bento-grid-react-component-for-saas-ui",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/bento-grid/bento-grid.tsx",
+      "target": "components/bento-grid/bento-grid.tsx"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/bento-grid/bento-card.tsx",
+      "target": "components/bento-grid/bento-card.tsx"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/bento-grid/notification-animation.tsx",
+      "target": "components/bento-grid/notification-animation.tsx"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/bento-grid/online-animation.tsx",
+      "target": "components/bento-grid/online-animation.tsx"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/bento-grid/circle-animation.tsx",
+      "target": "components/bento-grid/circle-animation.tsx"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/bento-grid/emoji-animation.tsx",
+      "target": "components/bento-grid/emoji-animation.tsx"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/public/pastel-gradient.png",
+      "target": "public/pastel-gradient.png"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/public/pastel-gradient-v2.png",
+      "target": "public/pastel-gradient-v2.png"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/public/pastel-gradient-v3.png",
+      "target": "public/pastel-gradient-v3.png"
+    },
+    {
+      "path": "components/bento-grid-react-component-for-saas-ui/public/online-gradient.png",
+      "target": "public/online-gradient.png"
+    }
+  ],
+  "dependencies": ["framer-motion", "clsx", "tailwind-merge"]
+}
