@@ -1,0 +1,29 @@
+{
+  "name": "animated-interests-picker",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-interests-picker/interests.tsx",
+      "target": "components/interests.tsx"
+    },
+    {
+      "path": "components/animated-interests-picker/burst.tsx",
+      "target": "components/burst.tsx"
+    },
+    {
+      "path": "components/animated-interests-picker/explode.tsx",
+      "target": "components/explode.tsx"
+    },
+    {
+      "path": "components/animated-interests-picker/lib/config.ts",
+      "target": "lib/config.ts"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "@heroicons/react",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

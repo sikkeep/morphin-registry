@@ -149,6 +149,24 @@
       "type": "component",
       "path": "items/animated-menu-text.json",
       "description": "Animated menu text with per-character hover slide transitions"
+    },
+    {
+      "name": "animated-interests-picker",
+      "type": "component",
+      "path": "items/animated-interests-picker.json",
+      "description": "Animated interests picker with draggable rows and emoji burst effects"
+    },
+    {
+      "name": "team-member-selector",
+      "type": "component",
+      "path": "items/team-member-selector.json",
+      "description": "Animated team member selector with searchable dropdown and avatar chips"
+    },
+    {
+      "name": "a-component-displays-a-group-of-avatars",
+      "type": "component",
+      "path": "items/a-component-displays-a-group-of-avatars.json",
+      "description": "Animated overlapping avatar group with hover lift and label tooltips"
     }
   ]
 }

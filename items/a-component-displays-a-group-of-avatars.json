@@ -1,0 +1,16 @@
+{
+  "name": "a-component-displays-a-group-of-avatars",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/a-component-displays-a-group-of-avatars/avatar-group.tsx",
+      "target": "components/avatar-group.tsx"
+    },
+    {
+      "path": "components/a-component-displays-a-group-of-avatars/avatar-group-demo.tsx",
+      "target": "components/avatar-group-demo.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion"]
+}

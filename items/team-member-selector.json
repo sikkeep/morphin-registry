@@ -1,0 +1,36 @@
+{
+  "name": "team-member-selector",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/team-member-selector/ui/member-demo.tsx",
+      "target": "components/ui/member-demo.tsx"
+    },
+    {
+      "path": "components/team-member-selector/ui/member-selector/index.ts",
+      "target": "components/ui/member-selector/index.ts"
+    },
+    {
+      "path": "components/team-member-selector/ui/member-selector/types.ts",
+      "target": "components/ui/member-selector/types.ts"
+    },
+    {
+      "path": "components/team-member-selector/ui/member-selector/member-selector.tsx",
+      "target": "components/ui/member-selector/member-selector.tsx"
+    },
+    {
+      "path": "components/team-member-selector/ui/member-selector/dropdown.tsx",
+      "target": "components/ui/member-selector/dropdown.tsx"
+    },
+    {
+      "path": "components/team-member-selector/ui/member-selector/avatar.tsx",
+      "target": "components/ui/member-selector/avatar.tsx"
+    },
+    {
+      "path": "components/team-member-selector/ui/member-selector/add-button.tsx",
+      "target": "components/ui/member-selector/add-button.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion", "lucide-react", "clsx", "tailwind-merge"]
+}
