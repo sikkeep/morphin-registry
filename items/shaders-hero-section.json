@@ -1,0 +1,36 @@
+{
+  "name": "shaders-hero-section",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/shaders-hero-section/shaders-hero-section-demo.tsx",
+      "target": "components/shaders-hero-section-demo.tsx"
+    },
+    {
+      "path": "components/shaders-hero-section/shaders-hero-section/index.ts",
+      "target": "components/shaders-hero-section/index.ts"
+    },
+    {
+      "path": "components/shaders-hero-section/shaders-hero-section/shader-background.tsx",
+      "target": "components/shaders-hero-section/shader-background.tsx"
+    },
+    {
+      "path": "components/shaders-hero-section/shaders-hero-section/header.tsx",
+      "target": "components/shaders-hero-section/header.tsx"
+    },
+    {
+      "path": "components/shaders-hero-section/shaders-hero-section/hero-content.tsx",
+      "target": "components/shaders-hero-section/hero-content.tsx"
+    },
+    {
+      "path": "components/shaders-hero-section/shaders-hero-section/pulsing-circle.tsx",
+      "target": "components/shaders-hero-section/pulsing-circle.tsx"
+    },
+    {
+      "path": "components/shaders-hero-section/types/paper-design-shaders.d.ts",
+      "target": "types/paper-design-shaders.d.ts"
+    }
+  ],
+  "dependencies": ["@paper-design/shaders-react", "framer-motion"]
+}

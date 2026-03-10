@@ -1,0 +1,11 @@
+{
+  "name": "saas-hero-with-animated-background",
+  "type": "component",
+  "files": [
+    {
+      "path": "components/saas-hero-with-animated-background/hero-dithering-card.tsx",
+      "target": "components/hero-dithering-card.tsx"
+    }
+  ],
+  "dependencies": ["@paper-design/shaders-react", "lucide-react"]
+}

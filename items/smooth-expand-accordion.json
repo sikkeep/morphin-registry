@@ -1,0 +1,16 @@
+{
+  "name": "smooth-expand-accordion",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/smooth-expand-accordion/interactive-accordion.tsx",
+      "target": "components/interactive-accordion.tsx"
+    },
+    {
+      "path": "components/smooth-expand-accordion/interactive-accordion-demo.tsx",
+      "target": "components/interactive-accordion-demo.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion"]
+}

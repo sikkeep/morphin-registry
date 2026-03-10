@@ -1,0 +1,16 @@
+{
+  "name": "ai-chat-input-ui-component-for-react",
+  "type": "component",
+  "files": [
+    {
+      "path": "components/ai-chat-input-ui-component-for-react/ai-prompt-box.tsx",
+      "target": "components/ai-prompt-box.tsx"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-tooltip",
+    "@radix-ui/react-dialog",
+    "lucide-react",
+    "framer-motion"
+  ]
+}

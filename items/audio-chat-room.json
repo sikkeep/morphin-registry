@@ -1,0 +1,8 @@
+{
+  "name": "audio-chat-room",
+  "type": "component",
+  "files": [
+    { "path": "components/audio-chat-room/audio-chat.tsx", "target": "components/audio-chat.tsx" }
+  ],
+  "dependencies": ["lucide-react", "clsx", "tailwind-merge"]
+}

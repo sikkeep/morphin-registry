@@ -1,0 +1,20 @@
+{
+  "name": "flipping-card-ui-for-react",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/flipping-card-ui-for-react/flipping-card.tsx",
+      "target": "components/flipping-card.tsx"
+    },
+    {
+      "path": "components/flipping-card-ui-for-react/flipping-card-demo.tsx",
+      "target": "components/flipping-card-demo.tsx"
+    },
+    {
+      "path": "components/flipping-card-ui-for-react/types/paper-design-shaders.d.ts",
+      "target": "types/paper-design-shaders.d.ts"
+    }
+  ],
+  "dependencies": ["clsx", "tailwind-merge"]
+}

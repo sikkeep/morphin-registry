@@ -83,6 +83,48 @@
       "type": "component",
       "path": "items/usage-analytics-dashboard-card.json",
       "description": "Usage analytics dashboard card with animated bars and top app breakdown"
+    },
+    {
+      "name": "flipping-card-ui-for-react",
+      "type": "component",
+      "path": "items/flipping-card-ui-for-react.json",
+      "description": "3D flipping card UI component with customizable front and back content"
+    },
+    {
+      "name": "shaders-hero-section",
+      "type": "component",
+      "path": "items/shaders-hero-section.json",
+      "description": "Hero section with animated shader backgrounds and pulsing circular CTA"
+    },
+    {
+      "name": "smooth-expand-accordion",
+      "type": "component",
+      "path": "items/smooth-expand-accordion.json",
+      "description": "Smooth expanding accordion with animated transitions and hover interactions"
+    },
+    {
+      "name": "saas-hero-with-animated-background",
+      "type": "component",
+      "path": "items/saas-hero-with-animated-background.json",
+      "description": "SaaS hero section with animated dithering shader background"
+    },
+    {
+      "name": "animated-hover-button-ui-component-for-react",
+      "type": "component",
+      "path": "items/animated-hover-button-ui-component-for-react.json",
+      "description": "Animated hover button with sliding text and expanding background"
+    },
+    {
+      "name": "ai-chat-input-ui-component-for-react",
+      "type": "component",
+      "path": "items/ai-chat-input-ui-component-for-react.json",
+      "description": "AI chat input box with attachments, recording timer, and action toggles"
+    },
+    {
+      "name": "audio-chat-room",
+      "type": "component",
+      "path": "items/audio-chat-room.json",
+      "description": "Expandable audio chat room UI with participant avatars and speaking indicators"
     }
   ]
 }

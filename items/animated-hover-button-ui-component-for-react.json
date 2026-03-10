@@ -1,0 +1,12 @@
+{
+  "name": "animated-hover-button-ui-component-for-react",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-hover-button-ui-component-for-react/interactive-hover-button.tsx",
+      "target": "components/interactive-hover-button.tsx"
+    }
+  ],
+  "dependencies": ["lucide-react", "clsx", "tailwind-merge"]
+}
