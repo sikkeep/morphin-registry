@@ -173,6 +173,12 @@
       "type": "component",
       "path": "items/bento-grid-react-component-for-saas-ui.json",
       "description": "SaaS bento grid with animated cards for notifications, emoji, and presence"
+    },
+    {
+      "name": "animated-dot-matrix-sales-chart-for-react-framer-motion-ui-component",
+      "type": "component",
+      "path": "items/animated-dot-matrix-sales-chart-for-react-framer-motion-ui-component.json",
+      "description": "Animated dot matrix sales chart card with interactive tooltip and trend summary"
     }
   ]
 }

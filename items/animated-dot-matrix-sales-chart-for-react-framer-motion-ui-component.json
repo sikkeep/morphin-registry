@@ -1,0 +1,22 @@
+{
+  "name": "animated-dot-matrix-sales-chart-for-react-framer-motion-ui-component",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-dot-matrix-sales-chart-for-react-framer-motion-ui-component/sales-growth-card.tsx",
+      "target": "components/sales-growth-card.tsx"
+    },
+    {
+      "path": "components/animated-dot-matrix-sales-chart-for-react-framer-motion-ui-component/dot-chart.tsx",
+      "target": "components/dot-chart.tsx"
+    }
+  ],
+  "dependencies": [
+    "@number-flow/react",
+    "framer-motion",
+    "lucide-react",
+    "clsx",
+    "tailwind-merge"
+  ]
+}
