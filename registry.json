@@ -179,6 +179,12 @@
       "type": "component",
       "path": "items/animated-dot-matrix-sales-chart-for-react-framer-motion-ui-component.json",
       "description": "Animated dot matrix sales chart card with interactive tooltip and trend summary"
+    },
+    {
+      "name": "shadcn-pricing-table-for-react-saas-apps",
+      "type": "component",
+      "path": "items/shadcn-pricing-table-for-react-saas-apps.json",
+      "description": "Shadcn-style SaaS pricing table with monthly/yearly toggle and feature matrix"
     }
   ]
 }

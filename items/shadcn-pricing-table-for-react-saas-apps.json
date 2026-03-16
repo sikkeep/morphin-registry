@@ -1,0 +1,26 @@
+{
+  "name": "shadcn-pricing-table-for-react-saas-apps",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/shadcn-pricing-table-for-react-saas-apps/pricing-content.tsx",
+      "target": "components/pricing-content.tsx"
+    },
+    {
+      "path": "components/shadcn-pricing-table-for-react-saas-apps/pricing-plans.tsx",
+      "target": "components/pricing-plans.tsx"
+    }
+  ],
+  "dependencies": [
+    "@remixicon/react",
+    "@number-flow/react",
+    "iconsax-reactjs",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-switch",
+    "@radix-ui/react-separator",
+    "class-variance-authority",
+    "clsx",
+    "tailwind-merge"
+  ]
+}
