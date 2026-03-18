@@ -185,6 +185,12 @@
       "type": "component",
       "path": "items/shadcn-pricing-table-for-react-saas-apps.json",
       "description": "Shadcn-style SaaS pricing table with monthly/yearly toggle and feature matrix"
+    },
+    {
+      "name": "animated-status-badge-with-table-for-dashboards",
+      "type": "component",
+      "path": "items/animated-status-badge-with-table-for-dashboards.json",
+      "description": "Animated status badge with task table for dashboards"
     }
   ]
 }

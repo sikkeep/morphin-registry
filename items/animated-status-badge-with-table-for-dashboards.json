@@ -1,0 +1,17 @@
+{
+  "name": "animated-status-badge-with-table-for-dashboards",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "files/components/animated-status-badge-with-table-for-dashboards/status-badge.tsx",
+      "target": "components/status-badge.tsx"
+    },
+    {
+      "path": "files/components/animated-status-badge-with-table-for-dashboards/index-demo.tsx",
+      "target": "components/index-demo.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion", "lucide-react", "clsx", "tailwind-merge"],
+  "registryDependencies": ["badge", "table"]
+}
