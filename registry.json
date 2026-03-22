@@ -191,6 +191,12 @@
       "type": "component",
       "path": "items/animated-status-badge-with-table-for-dashboards.json",
       "description": "Animated status badge with task table for dashboards"
+    },
+    {
+      "name": "animated-navbar-menu-with-morphing-hover-state",
+      "type": "component",
+      "path": "items/animated-navbar-menu-with-morphing-hover-state.json",
+      "description": "Horizontal nav links with morphing hover animation (Framer Motion)"
     }
   ]
 }

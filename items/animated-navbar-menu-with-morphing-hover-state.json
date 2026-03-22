@@ -1,0 +1,11 @@
+{
+  "name": "animated-navbar-menu-with-morphing-hover-state",
+  "type": "component",
+  "files": [
+    {
+      "path": "files/components/animated-navbar-menu-with-morphing-hover-state/nav-menu.tsx",
+      "target": "components/animated-navbar-menu-with-morphing-hover-state/nav-menu.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion"]
+}
