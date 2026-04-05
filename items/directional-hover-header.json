@@ -1,0 +1,20 @@
+{
+  "name": "directional-hover-header",
+  "type": "component",
+  "files": [
+    { "path": "files/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "files/components/directional-hover-header/header.tsx",
+      "target": "components/directional-hover-header/header.tsx"
+    },
+    {
+      "path": "files/components/directional-hover-header/header/nav-data.ts",
+      "target": "components/directional-hover-header/header/nav-data.ts"
+    },
+    {
+      "path": "files/components/directional-hover-header/header/mega-menu.tsx",
+      "target": "components/directional-hover-header/header/mega-menu.tsx"
+    }
+  ],
+  "dependencies": ["framer-motion", "lucide-react", "clsx", "tailwind-merge"]
+}

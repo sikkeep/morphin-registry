@@ -197,6 +197,12 @@
       "type": "component",
       "path": "items/animated-navbar-menu-with-morphing-hover-state.json",
       "description": "Horizontal nav links with morphing hover animation (Framer Motion)"
+    },
+    {
+      "name": "directional-hover-header",
+      "type": "component",
+      "path": "items/directional-hover-header.json",
+      "description": "Site header with directional mega-menu transitions and mobile drill-down"
     }
   ]
 }
