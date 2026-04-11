@@ -1,0 +1,40 @@
+{
+  "name": "animated-team-cards-gradient-hover",
+  "type": "component",
+  "files": [
+    { "path": "components/lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-team-cards-gradient-hover/index.css",
+      "target": "index.css"
+    },
+    {
+      "path": "components/animated-team-cards-gradient-hover/team-section/data.ts",
+      "target": "components/team-section/data.ts"
+    },
+    {
+      "path": "components/animated-team-cards-gradient-hover/team-section/index.ts",
+      "target": "components/team-section/index.ts"
+    },
+    {
+      "path": "components/animated-team-cards-gradient-hover/team-section/spring-arrow.tsx",
+      "target": "components/team-section/spring-arrow.tsx"
+    },
+    {
+      "path": "components/animated-team-cards-gradient-hover/team-section/team-member-card.tsx",
+      "target": "components/team-section/team-member-card.tsx"
+    },
+    {
+      "path": "components/animated-team-cards-gradient-hover/team-section/team-section-heading.tsx",
+      "target": "components/team-section/team-section-heading.tsx"
+    },
+    {
+      "path": "components/animated-team-cards-gradient-hover/team-section/team-section.tsx",
+      "target": "components/team-section/team-section.tsx"
+    },
+    {
+      "path": "components/animated-team-cards-gradient-hover/team-section/types.ts",
+      "target": "components/team-section/types.ts"
+    }
+  ],
+  "dependencies": ["framer-motion", "clsx", "tailwind-merge"]
+}

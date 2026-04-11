@@ -203,6 +203,12 @@
       "type": "component",
       "path": "items/directional-hover-header.json",
       "description": "Site header with directional mega-menu transitions and mobile drill-down"
+    },
+    {
+      "name": "animated-team-cards-gradient-hover",
+      "type": "component",
+      "path": "items/animated-team-cards-gradient-hover.json",
+      "description": "Stacked team cards with gradient hover, spring motion, and expandable focus"
     }
   ]
 }
