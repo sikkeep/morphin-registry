@@ -61,6 +61,12 @@
       "description": "Scroll-driven text scramble section with GSAP Flip and ScrollTrigger effects"
     },
     {
+      "name": "scroll-text-reveal-animation",
+      "type": "component",
+      "path": "items/scroll-text-reveal-animation.json",
+      "description": "Scroll-linked headline with scattered letter reveal and sticky viewport section"
+    },
+    {
       "name": "morphing-navigation-tabs-compact-expanded",
       "type": "component",
       "path": "items/morphing-navigation-tabs-compact-expanded.json",
