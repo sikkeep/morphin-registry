@@ -79,6 +79,12 @@
       "description": "Precision slider with animated numeric value display"
     },
     {
+      "name": "parametric-orbit-loader",
+      "type": "component",
+      "path": "items/parametric-orbit-loader.json",
+      "description": "SVG hypocycloid-style orbit loader with layered dash motion and soft glow (Tailwind, no extra runtime deps)"
+    },
+    {
       "name": "transaction-flow-in-one-button",
       "type": "component",
       "path": "items/transaction-flow-in-one-button.json",

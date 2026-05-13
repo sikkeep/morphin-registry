@@ -1,0 +1,12 @@
+{
+  "name": "parametric-orbit-loader",
+  "type": "component",
+  "files": [
+    { "path": "lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/parametric-orbit-loader/math-loader.tsx",
+      "target": "components/ui/math-loader.tsx"
+    }
+  ],
+  "dependencies": ["clsx", "tailwind-merge"]
+}
