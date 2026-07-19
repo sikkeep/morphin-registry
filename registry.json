@@ -221,6 +221,18 @@
       "type": "component",
       "path": "items/animated-team-cards-gradient-hover.json",
       "description": "Stacked team cards with gradient hover, spring motion, and expandable focus"
+    },
+    {
+      "name": "minimal-currency-converter",
+      "type": "component",
+      "path": "items/minimal-currency-converter.json",
+      "description": "Minimal currency converter with animated amounts, swap control, and dark mode toggle"
+    },
+    {
+      "name": "animated-dashboard-performance-chart",
+      "type": "component",
+      "path": "items/animated-dashboard-performance-chart.json",
+      "description": "Animated dashboard performance trend chart with metric tabs, hover tooltips, and Framer Motion transitions"
     }
   ]
 }

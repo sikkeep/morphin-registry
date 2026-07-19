@@ -1,0 +1,67 @@
+{
+  "name": "animated-dashboard-performance-chart",
+  "type": "component",
+  "files": [
+    { "path": "lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-dashboard-performance-chart/index-demo.tsx",
+      "target": "components/index-demo.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/ui/card.tsx",
+      "target": "components/ui/card.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/ui/select.tsx",
+      "target": "components/ui/select.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/ui/separator.tsx",
+      "target": "components/ui/separator.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/ui/tabs.tsx",
+      "target": "components/ui/tabs.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/ui/tooltip.tsx",
+      "target": "components/ui/tooltip.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/performance-trend/types.ts",
+      "target": "components/performance-trend/types.ts"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/performance-trend/chart-data.ts",
+      "target": "components/performance-trend/chart-data.ts"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/performance-trend/metric-select.tsx",
+      "target": "components/performance-trend/metric-select.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/performance-trend/metric-tabs.tsx",
+      "target": "components/performance-trend/metric-tabs.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/performance-trend/performance-chart.tsx",
+      "target": "components/performance-trend/performance-chart.tsx"
+    },
+    {
+      "path": "components/animated-dashboard-performance-chart/performance-trend/performance-trend.tsx",
+      "target": "components/performance-trend/performance-trend.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "@base-ui/react",
+    "class-variance-authority",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

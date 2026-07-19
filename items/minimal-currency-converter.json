@@ -1,0 +1,69 @@
+{
+  "name": "minimal-currency-converter",
+  "type": "component",
+  "files": [
+    { "path": "lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/minimal-currency-converter/index.css",
+      "target": "index.css"
+    },
+    {
+      "path": "components/minimal-currency-converter/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "path": "components/minimal-currency-converter/ui/select.tsx",
+      "target": "components/ui/select.tsx"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/index.ts",
+      "target": "components/currency-converter/index.ts"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/types.ts",
+      "target": "components/currency-converter/types.ts"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/constants.ts",
+      "target": "components/currency-converter/constants.ts"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/utils.ts",
+      "target": "components/currency-converter/utils.ts"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/dark-context.tsx",
+      "target": "components/currency-converter/dark-context.tsx"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/flag-mark.tsx",
+      "target": "components/currency-converter/flag-mark.tsx"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/animated-amount.tsx",
+      "target": "components/currency-converter/animated-amount.tsx"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/currency-select.tsx",
+      "target": "components/currency-converter/currency-select.tsx"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/transfer-row.tsx",
+      "target": "components/currency-converter/transfer-row.tsx"
+    },
+    {
+      "path": "components/minimal-currency-converter/currency-converter/currency-converter.tsx",
+      "target": "components/currency-converter/currency-converter.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "@number-flow/react",
+    "@radix-ui/react-select",
+    "class-variance-authority",
+    "radix-ui",
+    "clsx",
+    "tailwind-merge"
+  ]
+}
