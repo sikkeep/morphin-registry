@@ -1,0 +1,26 @@
+{
+  "name": "animated-multi-chain-selector",
+  "type": "component",
+  "files": [
+    { "path": "lib/utils.ts", "target": "lib/utils.ts" },
+    {
+      "path": "components/animated-multi-chain-selector/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "path": "components/animated-multi-chain-selector/chain-selector/network-icon.tsx",
+      "target": "components/chain-selector/network-icon.tsx"
+    },
+    {
+      "path": "components/animated-multi-chain-selector/chain-selector/chain-selector.tsx",
+      "target": "components/chain-selector/chain-selector.tsx"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "@base-ui/react",
+    "class-variance-authority",
+    "clsx",
+    "tailwind-merge"
+  ]
+}

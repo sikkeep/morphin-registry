@@ -233,6 +233,12 @@
       "type": "component",
       "path": "items/animated-dashboard-performance-chart.json",
       "description": "Animated dashboard performance trend chart with metric tabs, hover tooltips, and Framer Motion transitions"
+    },
+    {
+      "name": "animated-multi-chain-selector",
+      "type": "component",
+      "path": "items/animated-multi-chain-selector.json",
+      "description": "Animated multi-chain network selector with morphing icons, checkbox motion, and Framer Motion transitions"
     }
   ]
 }
