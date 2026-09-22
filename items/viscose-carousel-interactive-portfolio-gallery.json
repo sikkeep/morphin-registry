@@ -1,0 +1,51 @@
+{
+  "name": "viscose-carousel-interactive-portfolio-gallery",
+  "type": "component",
+  "files": [
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/Carousel.jsx",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/Carousel.jsx"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/shaders/planeShaders.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/shaders/planeShaders.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/shaders/textShaders.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/shaders/textShaders.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/atlas.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/atlas.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/gui.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/gui.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/meta.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/meta.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/params.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/params.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/projects.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/projects.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/splitText.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/splitText.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/tag.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/tag.js"
+    },
+    {
+      "path": "components/viscose-carousel-interactive-portfolio-gallery/ring/utils.js",
+      "target": "components/viscose-carousel-interactive-portfolio-gallery/ring/utils.js"
+    }
+  ],
+  "dependencies": ["three", "gsap", "lil-gui"]
+}

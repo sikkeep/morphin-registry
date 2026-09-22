@@ -239,6 +239,12 @@
       "type": "component",
       "path": "items/animated-multi-chain-selector.json",
       "description": "Animated multi-chain network selector with morphing icons, checkbox motion, and Framer Motion transitions"
+    },
+    {
+      "name": "viscose-carousel-interactive-portfolio-gallery",
+      "type": "component",
+      "path": "items/viscose-carousel-interactive-portfolio-gallery.json",
+      "description": "Interactive Three.js portfolio ring carousel with GSAP motion, gooey labels, and optional lil-gui tuning"
     }
   ]
 }
