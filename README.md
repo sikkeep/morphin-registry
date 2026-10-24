@@ -152,4 +152,4 @@ The presentation style of this README is inspired by the Magic UI project:
 
 ## License
 
-No license file is currently present in this repository.
+Licensed under the [MIT License](./LICENSE). Free for personal and commercial use.
