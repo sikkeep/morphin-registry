@@ -245,6 +245,12 @@
       "type": "component",
       "path": "items/viscose-carousel-interactive-portfolio-gallery.json",
       "description": "Interactive Three.js portfolio ring carousel with GSAP motion, gooey labels, and optional lil-gui tuning"
+    },
+    {
+      "name": "infinite-dome-grid-with-gsap",
+      "type": "component",
+      "path": "items/infinite-dome-grid-with-gsap.json",
+      "description": "Infinite dome image grid with GSAP drag, a cursor lens, and a project detail morph"
     }
   ]
 }

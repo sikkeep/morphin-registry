@@ -1,0 +1,59 @@
+{
+  "name": "infinite-dome-grid-with-gsap",
+  "type": "component",
+  "files": [
+    {
+      "path": "components/infinite-dome-grid-with-gsap/components/dome-gallery/index.ts",
+      "target": "components/dome-gallery/index.ts"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/components/dome-gallery/dome-gallery.tsx",
+      "target": "components/dome-gallery/dome-gallery.tsx"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/components/dome-gallery/dome-tile.tsx",
+      "target": "components/dome-gallery/dome-tile.tsx"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/components/dome-gallery/card-caption.tsx",
+      "target": "components/dome-gallery/card-caption.tsx"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/components/dome-gallery/project-modal.tsx",
+      "target": "components/dome-gallery/project-modal.tsx"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/components/dome-gallery/project-modal-content.tsx",
+      "target": "components/dome-gallery/project-modal-content.tsx"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/hooks/use-infinite-drag.ts",
+      "target": "hooks/use-infinite-drag.ts"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/hooks/use-pointer-focus.ts",
+      "target": "hooks/use-pointer-focus.ts"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/hooks/use-viewport.ts",
+      "target": "hooks/use-viewport.ts"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/lib/dome.ts",
+      "target": "lib/dome.ts"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/lib/detail-layout.ts",
+      "target": "lib/detail-layout.ts"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/lib/motion.ts",
+      "target": "lib/motion.ts"
+    },
+    {
+      "path": "components/infinite-dome-grid-with-gsap/data/projects.ts",
+      "target": "data/projects.ts"
+    }
+  ],
+  "dependencies": ["gsap", "lucide-react"]
+}
